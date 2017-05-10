@@ -3,7 +3,7 @@
 
 import re, pyperclip
 
-#Phone number Regex e.g 543-1234-1345
+#Phone number Regex e.g 543-134-1345
 
 phoneRegex = re.compile( r'''(
 	(\d{3}|\(\d{3}\))?	#area Code
