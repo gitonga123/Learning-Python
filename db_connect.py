@@ -3,9 +3,9 @@
 import os, sys
 import MySQLdb
 hostname = 'localhost'
-username = 'root'
-password = 'daniel123'
-database = 'holdon'
+username = '#'
+password = '#'
+database = '#'
 
 # Simple routine to run a query on a database and print the results:
 def doQuery( conn ) :
