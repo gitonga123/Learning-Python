@@ -10,4 +10,6 @@ print(folderzip.namelist())
 spamInfo = folderzip.getinfo('theme_darkly/README.md')
 print(spamInfo.file_size)
 
+print(spamInfo.compress_size)
+
 folderzip.close()
