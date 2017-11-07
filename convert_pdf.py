@@ -15,11 +15,17 @@ import pdftables_api
 #jbsijflstyak
 #k12gvmqtdksd
 #k12gvmqtdksd
+#85y2p8jrxzvc
+#gnly6tslg6ld
+#117y2tv2yiup
+#j2dn4v9lk0fl
+#37ai40qxw5fd
+#6tbakpqeh1ez
+#6oogadqe5vv9
+#wuf3ax9icwc3
+#w663tmw33t4h
 #curl https://pdftables.com/api/remaining?key=7hbuoy3ianfb
-c = pdftables_api.Client('u4rnehe9rln6')
+c = pdftables_api.Client('w663tmw33t4h')
 c.xlsx('Sportpesa __ Get in the Game.pdf', 'output.xlsx')
 #To Be used
-#8k9n81p0yz30
-#gnly6tslg6ld
-
 
