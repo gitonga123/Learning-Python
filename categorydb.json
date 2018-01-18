@@ -1,0 +1,40 @@
+{
+  "Category": {
+    "01": {
+      "name": "FINGER FOODS",
+      "image": "http://cdn-image.myrecipes.com/sites/default/files/styles/4_3_horizontal_-_1200x900/public/strawberry-bruschetta-sl.jpg?itok=VAPfSfyJ"
+    },
+    "02": {
+      "name": "WESTERN SOUP",
+      "image": "http://www.recipetineats.com/wp-content/uploads/2014/08/Cream-of-Chicken-Soup-1.jpg"
+    },
+    "03": {
+      "name": "EASTERN SOUP",
+      "image": "http://balaboosta.com.au/wp-content/uploads/2016/06/P6051419.jpg"
+    },
+    "04": {
+      "name": "PIZZA",
+      "image": "http://a1pizzamillersville.com/jsimages/Pizza1.jpg"
+    },
+    "05": {
+      "name": "SANDWICHES",
+      "image": "https://img.buzzfeed.com/buzzfeed-static/static/2016-12/28/18/enhanced/buzzfeed-prod-web-02/enhanced-30250-1482966036-1.jpg?downsize=715:*&output-format=auto&output-quality=auto"
+    },
+    "06": {
+      "name": "PASTA",
+      "image": "http://img.taste.com.au/06GR0Ovo/taste/2016/11/creamy-lamb-and-tomato-pasta-59670-1.jpeg"
+    },
+    "07": {
+      "name": "FISH",
+      "image": "http://leankitchenqueen.com/wp-content/uploads/2014/11/Fish-how-to-cook-1024x682.jpg"
+    },
+    "08": {
+      "name": "CHICKEN",
+      "image": "http://cookdiary.net/wp-content/uploads/images/Cooked_Chicken_929.jpg"
+    },
+    "09": {
+      "name": "CHINESE VEGGI",
+      "image": "https://i.ytimg.com/vi/7CxMngJZzhY/maxresdefault.jpg"
+    }
+  }
+}

@@ -24,8 +24,15 @@ import pdftables_api
 #6oogadqe5vv9
 #wuf3ax9icwc3
 #w663tmw33t4h
+#5k74cfx6nf7i
+#ybn31147sg66
+#lucmqa22xba5
+#slj5g0r3kkfs
+#jkh4s3s00gbp
 #curl https://pdftables.com/api/remaining?key=7hbuoy3ianfb
-c = pdftables_api.Client('w663tmw33t4h')
+c = pdftables_api.Client('1xmx0h6rkd9t')
 c.xlsx('Sportpesa __ Get in the Game.pdf', 'output.xlsx')
 #To Be used
+#
+#
 
